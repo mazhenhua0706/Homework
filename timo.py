@@ -5,4 +5,4 @@ class Timo(Hero):
     hp = 2100
     power = 210
     name = "timo"
-    word = "提莫队长正在待命"
+    word = "提莫队长正在待命 "

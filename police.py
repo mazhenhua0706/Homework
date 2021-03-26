@@ -6,3 +6,4 @@ class Police(Hero):
     power = 190
     name = "police"
     word = "见识一下法律的子弹"
+

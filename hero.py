@@ -14,7 +14,6 @@ police: 见识一下法律的子弹
 """
 
 
-
 class Hero:
     hp = 0
     power = 0
