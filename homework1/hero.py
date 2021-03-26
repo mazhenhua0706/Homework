@@ -31,4 +31,4 @@ class Hero:
             print("我们打平了")
 
     def speak_lines(self):
-        print(self.word)
+        print(self.name, "：", self.word)
